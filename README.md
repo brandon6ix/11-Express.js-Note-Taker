@@ -67,7 +67,7 @@ To use the Note Taker app:
 
 ## Screenshots
 
-![Screenshot of the Note Taker app]()
+![Screenshot of the Note Taker app](./public/Screenshot%202024-10-01%20at%208.19.42 PM.png)
 
 ## License
 
